@@ -33,9 +33,9 @@ async function main() {
 <style>
             .prog {
                 color: #ff78ff;
-                font-size: 1.0rem;
+                font-size: 0.8rem;
                 font-weight: bold;
-                line-height: 1.0rem;
+                line-height: 0.8rem;
                 font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
             }
 
@@ -113,7 +113,7 @@ async function main() {
         <g><path style="opacity:1" fill="#8bbcfd" d="M 243.5,178.5 C 242.395,182.803 241.062,186.969 239.5,191C 232.857,190.847 230.857,187.68 233.5,181.5C 233.56,182.043 233.893,182.376 234.5,182.5C 235.251,181.624 235.751,180.624 236,179.5C 236.72,181.112 236.554,182.612 235.5,184C 236.5,184.333 237.5,184.667 238.5,185C 236.744,185.202 235.078,185.702 233.5,186.5C 233.709,187.086 234.043,187.586 234.5,188C 236.473,188.495 238.473,188.662 240.5,188.5C 239.918,186.002 239.918,183.669 240.5,181.5C 241.272,180.306 242.272,179.306 243.5,178.5 Z"/></g>
         <g><path style="opacity:1" fill="#a4c8ff" d="M 520.5,190.5 C 519.089,192.539 517.089,193.539 514.5,193.5C 516.181,191.992 518.181,190.992 520.5,190.5 Z"/></g>
         
-            <text text-anchor="middle" x="280" y="15" class="prog" style="fill:#0078ff;" stroke="#none" stroke-width="1" >태영이의 프로그래머스 코딩테스트! 현재 스코어는?</text>
+            <text text-anchor="middle" x="280" y="15" class="prog" style="fill:#0078ff;" stroke="#none" stroke-width="1" >Ellen's Programmers Coding-Test Score!</text>
 
             <text text-anchor="middle" x="80" y="45" class="title" style="fill:#0078ff;" stroke="#none" stroke-width="1" >정복 중인 레벨</text>
             <text text-anchor="middle" x="50" y="85" class="desc" stroke="#none" stroke-width="1" >${my_data.skillCheck.level}</text>
